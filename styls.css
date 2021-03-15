@@ -153,11 +153,11 @@
   }
   
   /* Fake image */
-  .fakeimg {
+  /* .fakeimg {
     background-color: #aaa;
     width: 100%;
     padding: 20px;
-  }
+  } */
   
   /* Add a card effect for articles */
   .card {

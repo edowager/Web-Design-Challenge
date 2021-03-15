@@ -87,11 +87,29 @@ li.dropdown {
 }
 
 
+/* --------------------------------------------------------------- */
+
+.desc {
+  text-align: center;
+  /* font-size: 100%; */
+  line-height: 1.5;
+  font-weight: 500;
+  font-family: "gentona",Tahoma,sans-serif;
+  font-size: 20;
+  color: #546485;
+
+}
 
 
 
 
 
+
+
+
+
+
+/* --------------------------------------------------------------- */
 * {
     box-sizing: border-box;
   }
